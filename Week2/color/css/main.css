@@ -10,14 +10,10 @@ h1{
 	padding-left: 15px;
 }
 
-h2{
-	color:#1F3731;	
-}
-
 #wiki{
 	padding-left: 15px;
 }
-
+/*the nav,ul and li are all for the navigation bar*/
 #nav{
 	float: right;
 	width: 600px;
@@ -44,19 +40,22 @@ a{
 	color: #FFB60F;
 }
 
+h2{
+	color:#1F3731;	
+}
+
 p{
 	color: rgb(40, 41, 39);
 	padding-top: 15px;
 	padding-left: 15px;
 	padding-right: 15px;
 }
-
+/*This will channge the background color of the foundation div to light gray*/
 #founding{
 	background-color: hsl(0, 0%, 83%);
 }
-
+/*This will channge the background color of the fans div to gold*/
 #fans{
-	
 	background-color: #FFB60F;
 }
 
