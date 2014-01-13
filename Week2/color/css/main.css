@@ -1,0 +1,65 @@
+body{
+	padding: 20px 40px 20px 40px;
+	background-color: white;
+	opacity: 0.8;
+}
+
+h1{
+	width: 400px;
+	color:#1F3731;
+	padding-left: 15px;
+}
+
+h2{
+	color:#1F3731;	
+}
+
+#wiki{
+	padding-left: 15px;
+}
+
+#nav{
+	float: right;
+	width: 600px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: #1F3731;
+}
+
+ul{
+	height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+li{
+	display: inline;
+	padding: 15px;
+}
+
+a{
+	text-decoration: none;
+	color: #FFB60F;
+}
+
+p{
+	color: rgb(40, 41, 39);
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#founding{
+	background-color: hsl(0, 0%, 83%);
+}
+
+#fans{
+	
+	background-color: #FFB60F;
+}
+
+
+
+
