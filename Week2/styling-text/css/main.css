@@ -64,11 +64,11 @@ a:hover{
 }
 
 a:link{
-	
+	color:white;
 }
 
 a:visited{
-	background-color: red;
+	background-color: yellow;
 }
 
 h2{
