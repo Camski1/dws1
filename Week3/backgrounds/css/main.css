@@ -4,7 +4,7 @@ body{
 	opacity: 0.8;
 	font-family: Varela;
 	background-image: url("../img/squared_metal.png");
-	background-repeat: repeat-x repeat-y;
+	background-repeat: repeat;
 	background-position: left;
 }
 
@@ -107,6 +107,7 @@ p{
 	padding-left: .5%;
 	width:65%;
 	float: left;
+	background: linear-gradient(135deg, #ebf4ed 0%,#e6f7e8 24%,#bfe5a0 79%);
 }
 
 #founding h2{
@@ -151,6 +152,7 @@ p{
 	padding-bottom: 1.8%;
 	padding-right: 1%;
 	background-color: #FFFFFF;
+	background: linear-gradient(135deg, #ebf4ed 0%,#e6f7e8 24%,#bfe5a0 79%);
 }
 
 #stadium h2{
