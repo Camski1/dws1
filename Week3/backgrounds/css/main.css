@@ -85,12 +85,10 @@ a:visited{
 
 h2{
 	color:#1F3731;	
-	
 	font-size: 1.5em;
 	background-image: url("../img/1390530675_Football.png");
 	background-repeat: no-repeat;
 	background-size: 28px;
-
 }
 
 p{
@@ -129,8 +127,7 @@ p{
 	padding-left: 5%;
 }
 
-#championships{
-	
+#championships{	
 	width:30%;
 	float: right;
 	border: 1px solid #1F3731;
