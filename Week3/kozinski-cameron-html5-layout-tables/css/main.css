@@ -1,0 +1,220 @@
+body{
+	margin:0px;
+	padding: 2%;
+	opacity: 0.8;
+	font-family: Varela;
+	background-image: url("../img/squared_metal.png");
+	background-repeat: repeat;
+	background-position: left;
+}
+
+header{
+	width: 86.6%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	margin-top: -3.5%;
+}
+
+aside{
+	background-color: #FFFFFF;
+	padding-top: 1%;
+	margin-top: -1.5%;
+	width: 86.6%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section{
+	width: 86.6%;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+}
+
+h1{
+
+	width: 48%;
+	color: #1F3731;
+	padding-left: 1%;
+	font-family: Cardo;
+	word-spacing: .10%;
+	text-shadow: 1px 1px 1px #000, 1px 1px 1px #071F1A;
+	font-size: 1.875em;
+}
+
+/*the nav,ul and li are all for the navigation bar*/
+nav{
+	float: right;
+	width: 50%;
+    height: 2.5%;
+    margin-bottom:1%;
+    margin-right: 1%;
+    margin-top: -4.5%;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: #1F3731;
+    border-radius: 30px;
+    box-shadow: 3px 3px 1px #888888;
+}
+
+ul{
+	height: auto;
+    padding: 1% 0%;
+    margin: 0px;
+}
+li{
+	display: inline;
+	padding: 1.9%;
+}
+li a:hover{
+	color: #FFFFFF;
+}
+
+li a:active{
+	color: green;
+}
+
+a:active{
+	color: green;
+}
+
+a{
+	text-decoration: none;
+	color: #FFB60F;
+	font-style: oblique;
+}
+
+a:hover{
+	font-weight: bold;
+}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	background-color: yellow;
+}
+
+table{
+	padding: 1%;
+	margin: -2% auto 2% auto;
+	width: 60%;
+	border-spacing: 0px 5px;
+}
+
+th{
+	font-family: Cardo;
+	border-bottom: 2px solid #1F3731;
+	color: #1F3731;
+	font-weight: bold;
+	font-size: 1em;
+	text-align: left;
+} 
+
+td{
+	border-bottom: 1px solid #1F3731;
+}
+
+tr:hover{
+	background: linear-gradient(135deg, #ebf4ed 0%,#e6f7e8 24%,#bfe5a0 79%);
+}
+tfoot tr td{
+	text-align: center;
+}
+
+h2{
+	color:#1F3731;	
+	font-size: 1.5em;
+	background-image: url("../img/1390530675_Football.png");
+	background-repeat: no-repeat;
+	background-size: 28px;
+}
+
+p{
+	color: rgb(40, 41, 39);
+	padding: 1% 1% 1% 1%;
+	font-size: 0.938em;
+	text-align: justify;
+	line-height: 110%;
+}
+/*This will channge the background color of the foundation div to light gray*/
+#founding{
+	border: 1px solid #1F3731;
+	background-color: #FFFFFF;
+	padding-right: .5%;
+	padding-bottom: 1%;
+	padding-left: .5%;
+	width:65%;
+	float: left;
+	background: linear-gradient(135deg, #ebf4ed 0%,#e6f7e8 24%,#bfe5a0 79%);
+}
+
+#founding h2{
+	padding-left: 4%;
+}
+/*This will channge the background color of the fans div to gold*/
+#fans{
+	border: 1px solid #1F3731;
+	background-color: #FFB60F;
+	padding: 1%;
+	width:49.5%;
+	float:left;
+	margin-top:2%;
+	clear: left;
+}
+
+#fans h2{
+	padding-left: 5%;
+}
+
+#championships{	
+	width:30%;
+	float: right;
+	border: 1px solid #1F3731;
+	padding-left: 1%;
+	padding-bottom: .23%;
+	padding-right: 1%;
+	background-color: #FFB60F;
+}
+
+#championships h2{
+	padding-left: 8.5%;
+}
+
+#stadium{
+	width:45%;
+	float: right;
+	margin-top:2%;
+	clear:right;
+	border: 1px solid #1F3731;
+	padding-left: .5%;
+	padding-bottom: 1.8%;
+	padding-right: 1%;
+	background-color: #FFFFFF;
+	background: linear-gradient(135deg, #ebf4ed 0%,#e6f7e8 24%,#bfe5a0 79%);
+}
+
+#stadium h2{
+	padding-left: 5.5%;
+}
+
+
+footer{
+	width: 86.6%;
+	padding: 1% 0% 1% 8%;
+	float: left;
+	clear: both;
+}
+
+footer a{
+	color: #1F3731;
+}
+
+
+
+
